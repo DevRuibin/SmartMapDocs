@@ -95,3 +95,9 @@ The following video demonstrates how LEDs are used to display train locations.
 ### Client Side
 1. **YAML**: Config the LEDs layout on the map
 2. **neopixel**: Control the LEDs
+
+## Contributors
+
+1. [aurelarue](https://github.com/aurelarue)
+2. [DevRuibin](https://github.com/DevRuibin)
+3. [tlowenthal](https://github.com/tlowenthal)
