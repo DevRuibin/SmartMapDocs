@@ -7,6 +7,6 @@
                  start-page="Overview.md">
 
     <toc-element topic="Overview.md"/>
-    <toc-element topic="What-Nexts.md"/>
     <toc-element topic="Software-Requirement-Specification.md"/>
+    <toc-element topic="What-Nexts.md"/>
 </instance-profile>
